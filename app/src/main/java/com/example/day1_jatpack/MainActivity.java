@@ -34,11 +34,10 @@ public class MainActivity extends AppCompatActivity {
 //            public void onPropertyChanged(Observable sender, int propertyId) {
 //
 //            }
-//        });
+//        })
 
-
-//        ArrayList<String> list = new ArrayList<>();
-//        list.add("aaa");
+        ArrayList<String> list = new ArrayList<>();
+        list.add("aaa");
 //
 //        //获得类型
 //        Class<? extends ArrayList> clazz = list.getClass();
@@ -64,8 +63,4 @@ public class MainActivity extends AppCompatActivity {
 //        }
 
     }
-
-
-
-
 }
